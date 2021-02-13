@@ -23,5 +23,5 @@ O programa desenvolvido deverá imprimir no terminal o contracheque do funcioná
 
 ![image](https://user-images.githubusercontent.com/78982436/107863884-50557800-6e36-11eb-869c-0d6c6956ba51.png)
 
-<b> Realizei a criação de duas versões, uma sem funções e outra com, visando aprimorar o conhecimento utilizando os recursos da linguagem e mapeando as dificuldades enfrentadas optando por usar ou não função.
+<b><p style="color:red"> Realizei a criação de duas versões, uma sem funções e outra com, visando aprimorar o conhecimento utilizando os recursos da linguagem e mapeando as dificuldades enfrentadas optando por usar ou não função. </p>
 
